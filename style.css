@@ -224,6 +224,7 @@ a {
 .carousel {
     margin-left: 15%;
     margin-right: 15%;
+  
   }
   
   ul.slides {
@@ -326,6 +327,7 @@ a {
     background-color: #fff;
     opacity: 0.5;
     margin: 10px;
+    border-style: dotted;
   }
   
   input:checked + .slide-container .slide-image {
@@ -335,7 +337,7 @@ a {
   }
   
   input:checked + .slide-container .carousel-controls label {
-    display: block;
+    display: list-item;
   }
   
   input#img-1:checked ~ .carousel-dots label#img-dot-1,
