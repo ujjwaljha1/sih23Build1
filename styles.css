@@ -1,0 +1,1060 @@
+*{
+    padding: 0%;
+    left: auto;
+    right: auto;
+}
+
+.desktop {
+    position: relative;
+    width: 984px;
+    height: 700px;
+    background-color: #ffffff;
+}
+
+.desktop .overlap-group {
+    position: absolute;
+    width: 533px;
+    height: 41px;
+    top: 36px;
+    left: 417px;
+}
+
+.desktop .group {
+    position: absolute;
+    width: 533px;
+    height: 41px;
+    top: 0;
+    left: 0;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 75px;
+    height: 41px;
+    top: 0;
+    left: 458px;
+    mix-blend-mode: hard-light;
+}
+
+.desktop .nav {
+    position: absolute;
+    width: 427px;
+    height: 19px;
+    top: 11px;
+    left: 0;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    width: 32px;
+    top: -1px;
+    left: 395px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d5f60e;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame {
+    position: absolute;
+    width: 134px;
+    height: 19px;
+    top: 0;
+    left: 0;
+}
+
+.desktop .div {
+    position: absolute;
+    width: 34px;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    width: 70px;
+    top: -1px;
+    left: 64px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-2 {
+    position: absolute;
+    width: 201px;
+    height: 19px;
+    top: 0;
+    left: 164px;
+}
+
+.desktop .text-wrapper-3 {
+    position: absolute;
+    width: 30px;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+    position: absolute;
+    width: 60px;
+    top: -1px;
+    left: 60px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+    position: absolute;
+    width: 51px;
+    top: -1px;
+    left: 150px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+    position: absolute;
+    width: 60px;
+    top: 14px;
+    left: 466px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff33;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .element {
+    position: absolute;
+    width: 979px;
+    height: 550px;
+    top: 150px;
+    left: 3px;
+    object-fit: cover;
+}
+
+.desktop .law {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    top: 18px;
+    left: 0;
+    object-fit: cover;
+}
+
+
+/*
+.sign-up {
+    background-color: #b0d8da;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}  */
+
+.sign-up .overlap-wrapper {
+    background-color: #b0d8da;
+    overflow: hidden;
+    width: 1152px;
+    height: 700px;
+}
+
+.sign-up .overlap {
+    position: relative;
+    width: 1190px;
+    height: 700px;
+    left: 16px;
+}
+
+.sign-up .overlap-group {
+    position: absolute;
+    width: 1190px;
+    height: 700px;
+    top: 0;
+    left: 0;
+}
+
+.sign-up .rectangle {
+    position: absolute;
+    width: 785px;
+    height: 700px;
+    top: 0;
+    left: 405px;
+    background-color: #ffffff;
+    border-radius: 36px;
+}
+
+.sign-up .text-wrapper {
+    position: absolute;
+    width: 365px;
+    top: 103px;
+    left: 9px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 1.92px;
+    line-height: 35px;
+}
+
+.sign-up .abstraction {
+    position: absolute;
+    width: 491px;
+    height: 512px;
+    top: 188px;
+    left: 0;
+}
+
+.sign-up .div {
+    position: absolute;
+    top: 14px;
+    left: 1010px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #a1a1a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .polygon {
+    position: absolute;
+    width: 10px;
+    height: 6px;
+    top: 29px;
+    left: 1097px;
+}
+
+.sign-up .group {
+    position: absolute;
+    width: 423px;
+    height: 514px;
+    top: 104px;
+    left: 571px;
+}
+
+.sign-up .overlap-2 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 331px;
+    left: 0;
+}
+
+.sign-up .blind {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 4px;
+    left: 383px;
+}
+
+.sign-up .overlap-3 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 0;
+    left: 0;
+}
+
+.sign-up .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #9d9d9d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .line {
+    position: absolute;
+    width: 405px;
+    height: 1px;
+    top: 30px;
+    left: 0;
+    object-fit: cover;
+}
+
+.sign-up .overlap-4 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 64px;
+    left: 0;
+    border-radius: 8px;
+}
+
+.sign-up .text-wrapper-3 {
+    position: absolute;
+    top: 5px;
+    left: 45px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5a;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .google-logo-icon-png {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 11px;
+    left: 12px;
+    object-fit: cover;
+}
+
+.sign-up .rectangle-2 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #e6e6e6;
+}
+
+.sign-up .overlap-5 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 198px;
+    left: 0;
+}
+
+.sign-up .allready-have-an {
+    position: absolute;
+    top: 479px;
+    left: 2px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .span {
+    color: #9d9d9d;
+}
+
+.sign-up .text-wrapper-4 {
+    color: #92cbce;
+}
+
+.sign-up .text-wrapper-5 {
+    color: #8acbce;
+}
+
+.sign-up .overlap-6 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 262px;
+    left: 0;
+}
+
+.sign-up .text-wrapper-6 {
+    position: absolute;
+    top: 145px;
+    left: 179px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #a2a2a2;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .overlap-group-2 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 64px;
+    left: 217px;
+    border-radius: 8px;
+}
+
+.sign-up .facebook {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 12px;
+    left: 13px;
+    object-fit: cover;
+}
+
+.sign-up .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Telegraf-UltraBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 1.92px;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .div-wrapper {
+    position: absolute;
+    width: 405px;
+    height: 45px;
+    top: 411px;
+    left: 0;
+    background-color: #8acace;
+    border-radius: 8px;
+}
+
+.sign-up .text-wrapper-8 {
+    position: absolute;
+    width: 139px;
+    top: 5px;
+    left: 133px;
+    font-family: "Telegraf-UltraBold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 35px;
+}
+
+.sign-up .vector {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 20px;
+    left: 9px;
+}
+
+
+.login {
+    position: relative;
+    width: 1152px;
+    height: 700px;
+    background-color: #c26d52;
+}
+
+.login .group {
+    position: absolute;
+    width: 553px;
+    height: 591px;
+    top: 54px;
+    left: 299px;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.login .div {
+    position: relative;
+    width: 497px;
+    height: 524px;
+    top: 33px;
+    left: 24px;
+}
+
+.login .image {
+    width: 144px;
+    height: 126px;
+    top: 0;
+    left: 180px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.login .group-2 {
+    position: absolute;
+    width: 493px;
+    height: 222px;
+    top: 196px;
+    left: 0;
+}
+
+.login .overlap-group-wrapper {
+    position: absolute;
+    width: 478px;
+    height: 44px;
+    top: 177px;
+    left: 17px;
+}
+
+.login .overlap-group {
+    position: relative;
+    width: 476px;
+    height: 44px;
+    background-color: #d333eec2;
+    border-radius: 10px;
+}
+
+.login .text-wrapper {
+    position: absolute;
+    width: 173px;
+    top: 8px;
+    left: 162px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffffc2;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .group-3 {
+    position: absolute;
+    width: 493px;
+    height: 131px;
+    top: 0;
+    left: 0;
+}
+
+.login .overlap {
+    position: absolute;
+    width: 481px;
+    height: 50px;
+    top: 0;
+    left: 12px;
+}
+
+.login .frame {
+    position: absolute;
+    width: 481px;
+    height: 40px;
+    top: 10px;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #808080;
+}
+
+.login .frame-2 {
+    position: absolute;
+    width: 55px;
+    height: 20px;
+    top: 0;
+    left: 20px;
+    background-color: #ffffff;
+}
+
+.login .email {
+    position: absolute;
+    width: 31px;
+    height: 13px;
+    top: 3px;
+    left: 28px;
+}
+
+.login .input-filed {
+    position: absolute;
+    width: 495px;
+    height: 50px;
+    top: 81px;
+    left: 0;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.login .overlap-group-2 {
+    position: relative;
+    width: 493px;
+    height: 50px;
+}
+
+.login .frame-3 {
+    position: absolute;
+    width: 476px;
+    height: 40px;
+    top: 10px;
+    left: 17px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #808080;
+}
+
+.login .frame-4 {
+    position: absolute;
+    width: 96px;
+    height: 20px;
+    top: 0;
+    left: 35px;
+    background-color: #ffffff;
+}
+
+.login .phone-numebr {
+    position: absolute;
+    width: 150px;
+    top: 0;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #8b8989;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .OR {
+    position: absolute;
+    width: 474px;
+    height: 14px;
+    top: 448px;
+    left: 19px;
+}
+
+.login .text-wrapper-2 {
+    position: absolute;
+    width: 17px;
+    top: 0;
+    left: 224px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .line {
+    width: 219px;
+    top: 5px;
+    left: 0;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.login .img {
+    width: 223px;
+    top: 6px;
+    left: 249px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.login .overlap-2 {
+    position: absolute;
+    width: 223px;
+    height: 34px;
+    top: 491px;
+    left: 271px;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.login .text-wrapper-3 {
+    position: absolute;
+    width: 170px;
+    top: 8px;
+    left: 45px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #878181;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .logos-facebook {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 8px;
+    left: 16px;
+}
+
+.login .overlap-3 {
+    position: absolute;
+    width: 212px;
+    height: 34px;
+    top: 491px;
+    left: 20px;
+    background-image: url(./img/rectangle-6.svg);
+    background-size: 100% 100%;
+}
+
+.login .flat-color-icons {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 8px;
+    left: 8px;
+}
+
+.login .text-wrapper-4 {
+    position: absolute;
+    width: 144px;
+    top: 8px;
+    left: 39px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #878181;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .image-2 {
+    width: 48px;
+    height: 48px;
+    top: 30px;
+    left: 29px;
+    position: absolute;
+    object-fit: cover;
+}
+
+
+
+/*
+
+
+.sign-up {
+    background-color: #b0d8da;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.sign-up .overlap-wrapper {
+    background-color: #b0d8da;
+    overflow: hidden;
+    width: 1152px;
+    height: 700px;
+}
+
+.sign-up .overlap {
+    position: relative;
+    width: 1190px;
+    height: 700px;
+    left: 16px;
+}
+
+.sign-up .overlap-group {
+    position: absolute;
+    width: 1190px;
+    height: 700px;
+    top: 0;
+    left: 0;
+}
+
+.sign-up .rectangle {
+    position: absolute;
+    width: 785px;
+    height: 700px;
+    top: 0;
+    left: 405px;
+    background-color: #ffffff;
+    border-radius: 36px;
+}
+
+.sign-up .text-wrapper {
+    position: absolute;
+    width: 365px;
+    top: 103px;
+    left: 9px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 1.92px;
+    line-height: 35px;
+}
+
+.sign-up .abstraction {
+    position: absolute;
+    width: 491px;
+    height: 512px;
+    top: 188px;
+    left: 0;
+}
+
+.sign-up .div {
+    position: absolute;
+    top: 14px;
+    left: 1010px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #a1a1a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .polygon {
+    position: absolute;
+    width: 10px;
+    height: 6px;
+    top: 29px;
+    left: 1097px;
+}
+
+.sign-up .group {
+    position: absolute;
+    width: 423px;
+    height: 514px;
+    top: 104px;
+    left: 571px;
+}
+
+.sign-up .overlap-2 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 331px;
+    left: 0;
+}
+
+.sign-up .blind {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 4px;
+    left: 383px;
+}
+
+.sign-up .overlap-3 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 0;
+    left: 0;
+}
+
+.sign-up .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #9d9d9d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .line {
+    position: absolute;
+    width: 405px;
+    height: 1px;
+    top: 30px;
+    left: 0;
+    object-fit: cover;
+}
+
+.sign-up .overlap-4 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 64px;
+    left: 0;
+    border-radius: 8px;
+}
+
+.sign-up .text-wrapper-3 {
+    position: absolute;
+    top: 5px;
+    left: 45px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5a;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .google-logo-icon-png {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 11px;
+    left: 12px;
+    object-fit: cover;
+}
+
+.sign-up .rectangle-2 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #e6e6e6;
+}
+
+.sign-up .overlap-5 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 198px;
+    left: 0;
+}
+
+.sign-up .allready-have-an {
+    position: absolute;
+    top: 479px;
+    left: 2px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .span {
+    color: #9d9d9d;
+}
+
+.sign-up .text-wrapper-4 {
+    color: #92cbce;
+}
+
+.sign-up .text-wrapper-5 {
+    color: #8acbce;
+}
+
+.sign-up .overlap-6 {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    top: 262px;
+    left: 0;
+}
+
+.sign-up .text-wrapper-6 {
+    position: absolute;
+    top: 145px;
+    left: 179px;
+    font-family: "Telegraf-Regular", Helvetica;
+    font-weight: 400;
+    color: #a2a2a2;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .overlap-group-2 {
+    position: absolute;
+    width: 188px;
+    height: 45px;
+    top: 64px;
+    left: 217px;
+    border-radius: 8px;
+}
+
+.sign-up .facebook {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 12px;
+    left: 13px;
+    object-fit: cover;
+}
+
+.sign-up .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Telegraf-UltraBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 1.92px;
+    line-height: 35px;
+    white-space: nowrap;
+}
+
+.sign-up .div-wrapper {
+    position: absolute;
+    width: 405px;
+    height: 45px;
+    top: 411px;
+    left: 0;
+    background-color: #8acace;
+    border-radius: 8px;
+}
+
+.sign-up .text-wrapper-8 {
+    position: absolute;
+    width: 139px;
+    top: 5px;
+    left: 133px;
+    font-family: "Telegraf-UltraBold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 35px;
+}
+
+.sign-up .vector {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 20px;
+    left: 9px;
+}
+*/
